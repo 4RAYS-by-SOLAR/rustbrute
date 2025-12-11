@@ -1,0 +1,5 @@
+{
+    "func_finder_script": "./rust_func_finder.py",
+    "idat_path": "idat",
+    "diaphora_path": "diaphora.py"
+}
